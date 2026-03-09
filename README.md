@@ -22,6 +22,23 @@ Features
 - JSON export for post-processing
 - Animation (GIF/MP4) + interactive Plotly dashboard
 
-Requirements
-```bash
-pip install numpy scipy matplotlib pandas plotly
+UPDATED::
+
+Goldstone Modes Toy Models
+
+Exploring spontaneous symmetry breaking, Goldstone mode emergence, phase slips, and condensation transitions in minimal toy systems (inspired by BEC and finite-isospin QCD).
+
+Current Focus
+- 1D Gross-Pitaevskii equation (imaginary-time evolution) with double-well potential
+- μ_I (isospin chemical potential) drive for pion-like condensation
+- Tiny explicit asymmetry to seed spontaneous symmetry breaking
+- Phase slip / rigidity visualization during merging transition
+
+Key Phenomena Observed
+- Density-driven lobe merging and central condensate formation
+- Amplification of tiny bias → runaway dominance of one side
+- Central phase flattening → Goldstone mode softening / slip
+- High phase rigidity in condensed phase (variance ~0 in dense core)
+- Noise resilience test → quick relaxation back to ground state
+
+This mirror is actually real... ?
